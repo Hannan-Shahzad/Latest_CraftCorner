@@ -16,7 +16,6 @@ const categories = [
   { id: '2', name: 'Jewelry' },
   { id: '3', name: 'Clothing' },
   { id: '4', name: 'Home Decor' },
-  { id: '5', name: 'Accessories' },
 ]
 
 export default function CategoryPage({ params }: { params: { id: string } }) {

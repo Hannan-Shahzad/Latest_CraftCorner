@@ -195,7 +195,6 @@ export default function SellerDashboard() {
                     <option value="Jewelry">Jewelry</option>
                     <option value="Clothing">Clothing</option>
                     <option value="Home Decor">Home Decor</option>
-                    <option value="Accessories">Accessories</option>
                   </select>
                 </div>
                 <button

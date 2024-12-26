@@ -2,9 +2,9 @@ import Link from 'next/link'
 
 const categories = [
   { id: 1, name: 'Pottery', image: '/images/pottery.jpg' },
-  { id: 2, name: 'Jewelry', image: '/images/jewelry.jpg' },
+  { id: 2, name: 'Jewelry', image: '/images/jewellery.jpg' },
   { id: 3, name: 'Clothing', image: '/images/clothing.jpg' },
-  { id: 4, name: 'Home Decor', image: '/images/home-decor.jpg' },
+  { id: 4, name: 'Home Decor', image: '/images/homedecor.jpg' },
 ]
 
 export default function FeaturedCategories() {
